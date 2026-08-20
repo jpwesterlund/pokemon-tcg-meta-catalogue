@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Dragapult ex",
+    "link": "dragapult.php",
+    "metaShare": "30.55%",
+    "tags": [
+      "spread",
+      "tera",
+      "stage2"
+    ]
+  },
+  {
+    "name": "Raging Bolt ex",
+    "link": "ragingbolt.php",
+    "metaShare": "15.67%",
+    "tags": [
+      "aggro",
+      "bigbasics",
+      "tera",
+      "ancient"
+    ]
+  },
+  {
+    "name": "Gardevoir ex",
+    "link": "gardevoir.php",
+    "metaShare": "15.64%",
+    "tags": [
+      "spread",
+      "stage2"
+    ]
+  },
+  {
+    "name": "Marnie's Grimmsnarl ex",
+    "link": "grimmsnarl.php",
+    "metaShare": "13.12%",
+    "tags": [
+      "spread",
+      "stage2",
+      "trainerpkmn"
+    ]
+  },
+  {
+    "name": "Flareon ex",
+    "link": "flareon.php",
+    "metaShare": "5.61%",
+    "tags": [
+      "toolbox",
+      "evolution",
+      "tera"
+    ]
+  },
+  {
+    "name": "Gholdengo ex",
+    "link": "gholdengo.php",
+    "metaShare": "4.59%",
+    "tags": [
+      "aggro",
+      "evolution"
+    ]
+  },
+  {
+    "name": "Joltik Box",
+    "link": "joltik.php",
+    "metaShare": "4.44%",
+    "tags": [
+      "aggro",
+      "toolbox",
+      "tera",
+      "bigbasics",
+      "future"
+    ]
+  },
+  {
+    "name": "N's Zoroark ex",
+    "link": "zoroark.php",
+    "metaShare": "1.62%",
+    "tags": [
+      "spread",
+      "evolution",
+      "trainerpkmn"
+    ]
+  },
+  {
+    "name": "Toedscruel + Ogerpon",
+    "link": "toedscruel.php",
+    "metaShare": "1.50%",
+    "tags": [
+      "aggro",
+      "tera",
+      "stage2",
+      "rogue"
+    ]
+  },
+  {
+    "name": "Charizard ex",
+    "link": "charizard.php",
+    "metaShare": "1.47%",
+    "tags": [
+      "aggro",
+      "tera",
+      "stage2"
+    ]
+  }
+]
